@@ -1,2 +1,3 @@
 # website-BatCaverna
-Um website feito com HTML, CS, JavaScript e Bootstrap
+Um website responsivo feito com HTML, CSS, JavaScript e Bootstrap.
+
